@@ -1,2 +1,2 @@
 # Lineer-Cebr
- lineer cebir işlemleri
+Lineer Algebra operations.
